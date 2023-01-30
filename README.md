@@ -12,7 +12,7 @@ This bundle is heavily inspired by the inactive https://github.com/xi-project/xi
 
 ### Step 1: Composer require
 
-    $ php composer.phar require "thormeier/breadcrumb-bundle"
+    $ php composer.phar require "enoptea/breadcrumb-bundle"
 
 ### Step2: Enable the bundle in the kernel
 
